@@ -30,3 +30,7 @@ C:\Users\el_ye\OneDrive\Desktop\MyProjects\react-with-dotnet\moviesAPI\obj\Debug
 C:\Users\el_ye\OneDrive\Desktop\MyProjects\react-with-dotnet\moviesAPI\obj\Debug\net9.0\moviesAPI.pdb
 C:\Users\el_ye\OneDrive\Desktop\MyProjects\react-with-dotnet\moviesAPI\obj\Debug\net9.0\moviesAPI.genruntimeconfig.cache
 C:\Users\el_ye\OneDrive\Desktop\MyProjects\react-with-dotnet\moviesAPI\obj\Debug\net9.0\ref\moviesAPI.dll
+C:\Users\el_ye\OneDrive\Desktop\MyProjects\react-with-dotnet\moviesAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\el_ye\OneDrive\Desktop\MyProjects\react-with-dotnet\moviesAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\el_ye\OneDrive\Desktop\MyProjects\react-with-dotnet\moviesAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\el_ye\OneDrive\Desktop\MyProjects\react-with-dotnet\moviesAPI\obj\Debug\net9.0\moviesAPI.sourcelink.json
